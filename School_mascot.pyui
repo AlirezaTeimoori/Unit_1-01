@@ -1,0 +1,103 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {320, 320}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{85, 6}, {131, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "mother_teresa_touch_up_inside",
+          "frame" : "{{120, 144}, {80, 32}}",
+          "title" : "Mother Teresa",
+          "uuid" : "18E746F9-48EB-49CA-9EA5-7E4A6E4F67D6",
+          "class" : "Button",
+          "name" : "mother_teresa",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{112, 53}, {80, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "st_joe_touch_up_inside",
+          "frame" : "{{120, 144}, {80, 32}}",
+          "title" : "St. Joe",
+          "uuid" : "434FA97A-3149-4DB0-9BB0-81A44A829706",
+          "class" : "Button",
+          "name" : "st_joe",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{112, 93}, {80, 35}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "st_mark_touch_up_inside",
+          "frame" : "{{120, 144}, {80, 32}}",
+          "title" : "St. Mark",
+          "uuid" : "0F5F892F-C377-49C7-8EA4-A8C3A8C40FFE",
+          "class" : "Button",
+          "name" : "st_mark",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{85, 144}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{85, 144}, {150, 32}}",
+          "uuid" : "82AC469E-92BA-4B10-B853-3B8D0FA86353",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "school_name_label",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{85, 184}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{85, 144}, {150, 32}}",
+          "uuid" : "49536FE4-D63D-4601-AB93-DBB76DE6523F",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "mascot_label",
+          "font_size" : 18
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
